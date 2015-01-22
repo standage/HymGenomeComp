@@ -1,3 +1,4 @@
 *.fa
 *.gff3
 *.log
+.ipynb_checkpoints/
